@@ -1,20 +1,5 @@
 {
-  "name": "goongroupstudio.com",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GoonGroupStudio/goongroupstudio.com.git"
-  },
-  "author": "Mr Farmer",
-  "publisher": "Goon Group Studio",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GoonGroupStudio/goongroupstudio.com/issues"
-  },
-  "homepage": "https://github.com/GoonGroupStudio/goongroupstudio.com#readme"
+  "dependencies": {
+    "react-router-dom": "^6.8.1"
+  }
 }
